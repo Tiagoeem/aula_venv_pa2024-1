@@ -11,7 +11,7 @@ c = a + b
 print("olá mundo: ", c)
 
 
-print("olá mundo 2: ", c)
+print("olá mundo 3: ", c)
 
 
 
